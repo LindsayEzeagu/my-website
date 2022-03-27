@@ -1,0 +1,11 @@
+.navbar-nav {
+flex-flow: row;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+
+  color: #fff;
+  padding: 10px;
+  
+}
+
