@@ -26,6 +26,7 @@ const Footer = () => { return( <div className="footer">
   <img src={twitter} alt="TWITTER"></img>
   <p>Twitter</p></a>
   </Col>
+  jrj
 
   <Col className="link align-center" ><a href ="https://github.com/LindsayEzeagu/">
     <img src={github} alt="GITHUB"></img>
